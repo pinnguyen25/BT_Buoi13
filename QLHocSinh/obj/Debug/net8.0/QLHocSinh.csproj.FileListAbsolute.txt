@@ -1,0 +1,17 @@
+D:\WebCore\BT13QLHocSinh\QLHocSinh\bin\Debug\net8.0\QLHocSinh.exe
+D:\WebCore\BT13QLHocSinh\QLHocSinh\bin\Debug\net8.0\QLHocSinh.deps.json
+D:\WebCore\BT13QLHocSinh\QLHocSinh\bin\Debug\net8.0\QLHocSinh.runtimeconfig.json
+D:\WebCore\BT13QLHocSinh\QLHocSinh\bin\Debug\net8.0\QLHocSinh.dll
+D:\WebCore\BT13QLHocSinh\QLHocSinh\bin\Debug\net8.0\QLHocSinh.pdb
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.AssemblyInfoInputs.cache
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.AssemblyInfo.cs
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.csproj.CoreCompileInputs.cache
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.dll
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\refint\QLHocSinh.dll
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.pdb
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.genruntimeconfig.cache
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\ref\QLHocSinh.dll
+D:\WebCore\BT13QLHocSinh\QLHocSinh\bin\Debug\net8.0\Unidecode.NET.dll
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.csproj.AssemblyReference.cache
+D:\WebCore\BT13QLHocSinh\QLHocSinh\obj\Debug\net8.0\QLHocSinh.csproj.Up2Date

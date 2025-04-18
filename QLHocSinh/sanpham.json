@@ -1,0 +1,20 @@
+[
+  {
+    "MaSP": "LT01",
+    "TenSP": "L\u00E1 Tre",
+    "GiaSP": 2000,
+    "SoLuongTon": 12
+  },
+  {
+    "MaSP": "HN01",
+    "TenSP": "H\u1ED3ng Ng\u1ECDc",
+    "GiaSP": 1000,
+    "SoLuongTon": 14
+  },
+  {
+    "MaSP": "LN01",
+    "TenSP": "Lam Ng\u1ECDc",
+    "GiaSP": 1900,
+    "SoLuongTon": 12
+  }
+]

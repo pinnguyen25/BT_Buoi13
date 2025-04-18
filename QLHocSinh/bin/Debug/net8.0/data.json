@@ -1,0 +1,30 @@
+[
+  {
+    "MaHs": 1,
+    "TenHs": "Hu\u00DF\u2557\u2502nh",
+    "DiemA": 9,
+    "DiemV": 8,
+    "DiemT": 7
+  },
+  {
+    "MaHs": 2,
+    "TenHs": "Pin",
+    "DiemA": 6,
+    "DiemV": 8,
+    "DiemT": 7
+  },
+  {
+    "MaHs": 3,
+    "TenHs": "Ph\u251C\u00EDt",
+    "DiemA": 7,
+    "DiemV": 6,
+    "DiemT": 5
+  },
+  {
+    "MaHs": 4,
+    "TenHs": "Ph\u255E\u2591\u00DF\u2557\u00A2c",
+    "DiemA": 9,
+    "DiemV": 8,
+    "DiemT": 7
+  }
+]
